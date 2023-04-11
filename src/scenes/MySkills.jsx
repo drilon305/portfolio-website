@@ -32,7 +32,7 @@ const MySkills = () => {
             <img className="w-[40px]" src="assets/nextdotjs.svg" alt="nextjs" />
             <img className="w-[40px]" src="assets/mui.png" alt="materialui" />
             <img className="w-[40px]" src="assets/tailwindc.png" alt="tailwind" />
-            <img className="w-[40px]" src="assets/git.svg" alt="git" />
+            <img className="w-[40px]" src="assets/github.png" alt="git" />
             <img className="w-[40px]" src="assets/adobe.png" alt="adobe" />
             <img className="w-[40px]" src="assets/strapi.png" alt="strapi" />
             </div>
