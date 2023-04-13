@@ -2,7 +2,7 @@ import SocialMediaIcons from "../components/SocialMediaIcons";
 import useMediaQuery from "../hooks/useMediaQuery";
 import { motion } from "framer-motion";
 import AnchorLink from "react-anchor-link-smooth-scroll";
-import resumePdf from '../assets/resume.pdf'
+import resumePdf from '../assets/resume1.pdf'
 
 
 const Landing = ({ setSelectedPage }) => {
